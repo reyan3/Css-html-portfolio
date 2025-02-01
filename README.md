@@ -1,2 +1,2 @@
 # Css-html-NETFLIXCLONE
-Here All My Html/Css Work Stored
+Here my Netflix clone by only using html and css
